@@ -8,4 +8,4 @@
 
 <br>
 
-<b><em>Jupyter notebook for the project: notebook/code.ipynb. 
+<b><em>Jupyter notebook for the project: code.ipynb. 
